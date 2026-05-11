@@ -19,9 +19,9 @@ Location:
 
 
 
-1000 ICP Company Sourcing Plan (1 Month Project)
+**1000 ICP Company Sourcing Plan (1 Month Project)**
 
-Objective
+**Objective**
 
 The aim of this project is to build a list of 1000 high-quality ICP companies in India within 1 month.
 
