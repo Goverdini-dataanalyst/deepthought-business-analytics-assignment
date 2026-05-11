@@ -29,8 +29,11 @@ The focus is not just collecting company names, but finding real, relevant, and 
 Instead of manually searching companies one by one, I would build a simple system:
 
 First collect a large list of companies
+
 Then clean and organize the data
+
 Then filter using rules and AI
+
 Finally verify and select the best 1000 companies
 
 **1. Data Sources I would use**
@@ -58,28 +61,40 @@ This helps me get a large and real dataset of companies
 After collecting data, I would clean it step by step:
 
 Remove duplicate companies
+
 Fix company names and formats
+
 Add missing details like industry or website
+
 Keep only useful and structured data
 
 Then I would also enrich the data using:
 
 Employee count from LinkedIn
+
 Company website checking
+
 Hiring activity signals
+
 Export/import activity if available
 
 **3. How I would filter companies (ICP check)**
 
 I would use a simple scoring system:
 
-Basic rules:
+**Basic rules:**
+
 Company size (employee count)
+
 Industry match
+
 Active hiring or business activity
+
 Export/import presence
+
 Website presence
-AI help:
+
+**AI help:**
 
 I would also use AI tools like GPT/Claude to check:
 
