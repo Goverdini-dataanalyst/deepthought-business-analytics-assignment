@@ -90,7 +90,9 @@ Remove incomplete or unclear data
 Keep only strong and medium ICP matches
 
 **5. 4-Week Plan**
+
 **Week 1:**
+
 Collect raw company data (~100K companies)
 Set up basic data structure
 **Week 2:**
@@ -98,18 +100,23 @@ Clean and organize data
 Start adding extra details
 First filtering step
 Around 8,000–10,000 companies expected
+
 **Week 3:**
+
 Apply AI filtering
 Improve scoring system
 Remove weak matches
 Around 2,000–3,000 companies left
+
 **Week 4:**
+
 Final manual checking
 Fix borderline cases
 Final selection
 Final output: 1000 ICP companies
 
 **Tools I would use**
+
 Python (for data cleaning and scraping)
 ChatGPT / Claude (for AI classification)
 LinkedIn (for company info)
