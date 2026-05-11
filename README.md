@@ -38,11 +38,17 @@ Finally verify and select the best 1000 companies
 I would collect companies from different places like:
 
 MCA (Government company registration data)
+
 LinkedIn (company search and employee details)
+
 IndiaMART and TradeIndia (supplier listings)
+
 Tracxn / Crunchbase / Tofler (business databases)
+
 Export-Import data (customs and trade records)
+
 Industry associations like CII, FICCI, ASSOCHAM
+
 Government portals like GST and GeM
 
 This helps me get a large and real dataset of companies
@@ -94,34 +100,51 @@ Keep only strong and medium ICP matches
 **Week 1:**
 
 Collect raw company data (~100K companies)
+
 Set up basic data structure
+
 **Week 2:**
+
 Clean and organize data
+
 Start adding extra details
+
 First filtering step
+
 Around 8,000–10,000 companies expected
 
 **Week 3:**
 
 Apply AI filtering
+
 Improve scoring system
+
 Remove weak matches
+
 Around 2,000–3,000 companies left
 
 **Week 4:**
 
 Final manual checking
+
 Fix borderline cases
+
 Final selection
+
 Final output: 1000 ICP companies
 
 **Tools I would use**
 
 Python (for data cleaning and scraping)
+
 ChatGPT / Claude (for AI classification)
+
 LinkedIn (for company info)
+
 Apify / scraping tools (for data extraction)
+
 Excel / PostgreSQL (for storing data)
+
 GitHub (for tracking work)
 
 
